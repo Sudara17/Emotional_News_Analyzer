@@ -34,7 +34,7 @@ venv\Scripts\activate
 
 pip install -r requirements.txt
 
-Configure Your NewsAPI Key 🔑
+4️⃣ Configure Your NewsAPI Key 🔑
 This project requires a NewsAPI key.
 
 -> Create one here:
@@ -44,7 +44,7 @@ Then set your key as an environment variable:
 -> setx NEWS_API_KEY "your_api_key_here"
 ⚠️ After running this command, close and reopen your terminal.
 
-▶️ Running the Application
+5️⃣ Running the Application
 
 streamlit run app.py
 OR
@@ -61,9 +61,6 @@ http://localhost:8501
 ├── requirements.txt
 └── README.md
 
-✔ Environment variables are already used for safety.
-
-✔ Works best with English-based news topics.
 
 🌱 Future Enhancements
 Deployment on Streamlit Cloud
