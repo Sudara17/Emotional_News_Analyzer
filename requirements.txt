@@ -1,0 +1,8 @@
+pandas
+nrclex
+matplotlib
+seaborn
+streamlit
+altair
+vegafusion
+nltk
