@@ -53,7 +53,7 @@ Once started, open the URL shown (usually):
 
 ## 📸 Preview
 
-![App Screenshot](https://via.placeholder.com/900x400?text=Screenshot+Coming+Soon)
+![App Screenshot](https://github.com/user-attachments/assets/3e3538ba-2d06-4e98-91d8-1bb495086523)
 
 
 📁 Project Structure
