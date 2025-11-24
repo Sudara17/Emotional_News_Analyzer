@@ -37,12 +37,10 @@ pip install -r requirements.txt
 4️⃣ Configure Your NewsAPI Key 🔑
 This project requires a NewsAPI key.
 
--> Create one here:
+Create one here:
 👉 https://newsapi.org/
-Then set your key as an environment variable:
 
--> setx NEWS_API_KEY "your_api_key_here"
-⚠️ After running this command, close and reopen your terminal.
+setx NEWS_API_KEY "your_api_key_here"
 
 5️⃣ Running the Application
 
@@ -51,7 +49,11 @@ OR
 python -m streamlit run app.py
 
 Once started, open the URL shown (usually):
-http://localhost:8501
+👉 http://localhost:8501
+
+## 📸 Preview
+
+![App Screenshot](https://via.placeholder.com/900x400?text=Screenshot+Coming+Soon)
 
 
 📁 Project Structure
