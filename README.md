@@ -34,14 +34,14 @@ venv\Scripts\activate
 
 pip install -r requirements.txt
 
-🔑 **Configure Your NewsAPI Key**
+Configure Your NewsAPI Key 🔑
 This project requires a NewsAPI key.
 
-Create one here:
+-> Create one here:
 👉 https://newsapi.org/
 Then set your key as an environment variable:
 
-setx NEWS_API_KEY "your_api_key_here"
+-> setx NEWS_API_KEY "your_api_key_here"
 ⚠️ After running this command, close and reopen your terminal.
 
 ▶️ Running the Application
