@@ -26,15 +26,15 @@ git clone https://github.com/Sudara17/Emotional_News_Analyzer.git
 cd Emotional_News_Analyzer
 
 2️⃣ Create & Activate the Virtual Environment (Windows)
+
 python -m venv venv
 venv\Scripts\activate
 
 3️⃣ Install Dependencies
-bash
-Copy code
+
 pip install -r requirements.txt
 
-🔑 Configure Your NewsAPI Key
+🔑 **Configure Your NewsAPI Key**
 This project requires a NewsAPI key.
 
 Create one here:
