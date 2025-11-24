@@ -18,6 +18,7 @@ It visualizes how news sentiment and emotions fluctuate over time for a given to
 ---
 
 ## 📂 Installation & Setup
+```bash
 
 1️⃣ Clone the Repository
 
