@@ -21,7 +21,6 @@ It visualizes how news sentiment and emotions fluctuate over time for a given to
 
 1️⃣ Clone the Repository
 
-```bash
 git clone https://github.com/Sudara17/Emotional_News_Analyzer.git
 cd Emotional_News_Analyzer
 
